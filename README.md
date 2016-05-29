@@ -10,5 +10,5 @@ This is the home of the React Native Hub (currently on Sundays).
 ## Quickstart
 
 * [Awesome React Native](https://github.com/jondot/awesome-react-native) - one stop shop for react native resources
-* [Deco](https://github.com/decosoftware/deco-ide) - all in one edigtor, just out, YMMV
+* [Deco](https://github.com/decosoftware/deco-ide) - all in one editor
 
